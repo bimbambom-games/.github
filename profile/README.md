@@ -1,4 +1,4 @@
-<a href="https://lessons1.guru"><img src="https://1lesson1.email/gamez.png"></a>
+<a href="https://lesson-3.guru"><img src="https://1lesson1.email/gamez.png"></a>
 ---
 <h1><a href="https://lesson-3.guru">CLICK TO PLAY GAME</h1>
 
